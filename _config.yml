@@ -18,3 +18,5 @@ linkedin_username: jorge-e-barsoba-20344020
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-minimal
