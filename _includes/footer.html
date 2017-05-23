@@ -2,6 +2,8 @@
 
   <div class="wrapper">
 
+    <h2 class="footer-heading">jebarsoba <i> - just another developer's blog</i></h2>
+
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
@@ -23,11 +25,17 @@
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
+
+          {% if site.linkedin_username %}
+          <li>
+            {% include icon-linkedin.html username=site.linkedin_username %}
+          </li>
+          {% endif %}
         </ul>
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
+        <p><i>{{ site.description }}</i></p>
       </div>
     </div>
 
