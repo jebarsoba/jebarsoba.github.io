@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+All my life I have been guided by my two passions: computers and music. After leaving school I was torn by them and even though I started Engineering, I shifted to music school. During that time, I earned my living as a professional musician and as an IT technician. This indecision was the reason for my late start in the corporate IT world. In my mid 20s, I joined a Well-known Telco, as a developer. At that moment, I realized that was my environment. Together with this insight, some university professors also showed me the passion with which this job can be done and inspired me to pursue a career in the software development field.
