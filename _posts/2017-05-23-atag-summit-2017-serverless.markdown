@@ -26,7 +26,7 @@ The two-day agenda was crammed with presentations and hands-on workshops around 
 As with AWS CodePipeline, the summit itself felt as if one was being transported through a pipeline. Every workshop was related to the other with a unifying thread, and the artifacts built during an activity served as input for the next one. As a result, at the end of the event some of us had built a complete Serverless Webapp.
 
 In a recursive way, the Webapp built along the workshops allowed us to vote the presentations given during the summit:  
-![alt text]({{ site.url }}/assets/atag-voting-app.png "ATAG Summit 2017 Voting Serverless Webapp")
+![ATAG Summit 2017 Voting Serverless Webapp]({{ site.url }}/assets/atag-voting-app.png "ATAG Summit 2017 Voting Serverless Webapp")
 
 The Webapp was developed and deployed over a composition of multiple Amazon platform services, following the Serverless computing approach:  
 *"Serverless computing, also known as function as a service (FaaS), is a cloud computing code execution model in which the cloud provider fully manages starting and stopping of a function's container platform as a service (PaaS) as necessary to serve requests, and requests are billed by an abstract measure of the resources required to satisfy the request, rather than per virtual machine, per hour"* (Wikipedia).
