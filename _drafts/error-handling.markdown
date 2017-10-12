@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Sumo Logic, an error handling strategy for ASP.NET Web API"
+ref: error-handling
+lang: en
 ---
 
 I used to work for a book publishing company. Once a year the firm mounted a huge stand within the most important book fair in the country. I had contributed to the development of an ad-hoc Point of sale system for the checkout lanes. I was there at the opening when the program had a blocking error that prevented the cashiers from serving customers. While we were trying to solve the issue people started to abandon the lanes. The longer the error persisted the longer the lane grew, and so the more money the publisher lost.

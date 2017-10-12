@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "ATAG Summit 2017, Serverless Edition"
-date:   2017-05-23
+ref: atag-summit-2017
+date: 2017-05-23
+lang: en
 ---
 
 Buenos Aires, Friday May 12th, 6.30 AM local time. I’m waiting in the car at a corner of my neighborhood San Cristóbal to carpool a colleague. Two hours later, after dodging a blocked highway with a hardly working GPS, we arrive at Finca María Cristina to meet with ATAG.

@@ -1,7 +1,11 @@
 ---
 layout: post
 title:  "Paternity leave 2.0"
+ref: paternity-leave
+lang: en
 ---
+
+*[Leer la versión en español de este artículo](http://localhost:4000/2017/10/05/licencia-por-paternidad.html)*
 
 And everything started with [this Tweet](https://twitter.com/CaptainBarsoba/status/883110919714242564): *“Working from home :) Thanks @Accenture_AR for the flexible schedule for parents, and my team for the support! @SergioGKaufman #TrulyHuman”*
 <div style="text-align:center; padding-bottom: 15px"><img src="{{ site.url }}/assets/paternity-leave-2.0-tweet.jpg" width="560" alt="Paternity leave 2.0 Tweet" title="Paternity leave 2.0 Tweet"></div>
