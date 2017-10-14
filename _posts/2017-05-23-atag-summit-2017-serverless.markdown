@@ -40,6 +40,6 @@ The pieces that make up the Webapp are the following:
 * AWS DynamoDB table, persisting the presentations and its votes
 
 During the AWS Lambda workshop, the function was coded using Node.JS. However, with the team I was working with we decided to take an alternative path and use .NET Core C# instead. As a follow-up of the summit, I created a GitHub repository where my team continued working along the week following the event. We included the Angular Webapp, the C# Lambda function, the DynamoDB/S3 AWS CLI scripts, and we’ll keep it open in case we come up with any changes:  
-[https://github.com/jebarsoba/atag-summit-2017-serverless](https://github.com/jebarsoba/atag-summit-2017-serverless)
+<a href="https://github.com/jebarsoba/atag-summit-2017-serverless" target="\_blank">https://github.com/jebarsoba/atag-summit-2017-serverless</a>
 
 One of the takeaways I value the most from the event is that I left with real working software, created with people who share my interests. First ATAG Summit for me. Also, first blog post!
