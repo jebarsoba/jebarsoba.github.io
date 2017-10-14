@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
  "To combine is to create; to engineer, divine".
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jebarsoba.github.io" # the base hostname & protocol for your site
-twitter_username: jebarsoba
+twitter_username: CaptainBarsoba
 github_username:  jebarsoba
 linkedin_username: jorge-e-barsoba-20344020
 
