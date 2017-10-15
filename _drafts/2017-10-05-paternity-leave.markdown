@@ -5,7 +5,7 @@ ref: paternity-leave
 lang: en
 ---
 
-*[Leer la versión en español de este artículo](http://localhost:4000/2017/10/05/licencia-por-paternidad.html)*
+*[Leer la versión en español de este artículo]({{ site.url }}/2017/10/05/licencia-por-paternidad.html)*
 
 And everything started with <a href="https://twitter.com/CaptainBarsoba/status/883110919714242564" target="\_blank">this Tweet</a>: *“Working from home :) Thanks @Accenture_AR for the flexible schedule for parents, and my team for the support! @SergioGKaufman #TrulyHuman”*
 <div style="text-align:center; padding-bottom: 15px"><img src="{{ site.url }}/assets/paternity-leave-2.0-tweet.jpg" width="560" alt="Paternity leave 2.0 Tweet" title="Paternity leave 2.0 Tweet"></div>
@@ -17,7 +17,6 @@ Being there those first days is key. Although the mother’s presence is the mos
 > We (fathers) are the support team: changing diapers, cleaning and sterilizing baby bottles, preparing and giving the bottle, burping your baby, driving to neonatology exams, and the list goes on...
 
 <div style="padding: 10px"></div>
-By the end of my extended leave our home had developed a kind of rhythm: the three of us had settled into our roles, and my wife and I had distributed the tasks in an attempt to equally share the load.
-Fortunately, then it came *AccenFlex for parents*: another benefit that gave me for three months the ACN common two work-from-home days plus the other three days of the week half-and-half. I chose working from home in the morning and at the office the other half of the day. The *(non-)routine* (because babies don’t easily get into a routine) doesn’t stop at the end of the leave and the flexible schedule helps you to spend more time with your family.
+By the end of my extended leave our home had developed a kind of rhythm: the three of us had settled into our roles, and my wife and I had distributed the tasks in an attempt to equally share the load. Fortunately, then it came *AccenFlex for parents*: another benefit that gave me for three months the ACN common two work-from-home days plus the other three days of the week half-and-half. I chose working from home in the morning and at the office the other half of the day. The *(non-)routine* (because babies don’t easily get into a routine) doesn’t stop at the end of the leave and the flexible schedule helps you to spend more time with your family.
 
 My wife is saying: *“If you’re planning to have a child, you’d better have it with someone who works for ACN”.*
