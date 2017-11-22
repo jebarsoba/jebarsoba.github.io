@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Paternity leave 2.0"
+summary: Video and article about my experience with the extended paternity leave and other benefits for parents.
+image: "/assets/paternity-leave-2.0-ecard.jpg"
 ref: paternity-leave
 lang: en
 ---
