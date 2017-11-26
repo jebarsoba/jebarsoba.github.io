@@ -4,10 +4,10 @@ title:  "Licencia por paternidad 2.0"
 summary: Video y artículo acerca de mi experiencia con la licencia por paternidad extendida y demás beneficios para padres.
 image: "/assets/paternity-leave-2.0-ecard.jpg"
 ref: paternity-leave
-lang: es
+lang: not-published (es)
 ---
 
-*[Read the English version of this post]({{ site.url }}/2017/10/05/paternity-leave.html)*
+*[Read the English version of this post]({{ site.url }}/2017/11/26/paternity-leave.html)*
 
 Y todo comenzó con <a href="https://twitter.com/CaptainBarsoba/status/883110919714242564" target="\_blank">este Tweet</a>: *“Trabajando en casa :) Gracias @Accenture_AR por la modalidad flexible para padres, y a mi equipo por bancarme! @SergioGKaufman #TrulyHuman”*
 <div style="text-align:center; padding-bottom: 15px"><img src="{{ site.url }}/assets/paternity-leave-2.0-tweet.jpg" width="560" alt="Licencia por paternidad 2.0 Tweet" title="Licencia por paternidad 2.0 Tweet"></div>

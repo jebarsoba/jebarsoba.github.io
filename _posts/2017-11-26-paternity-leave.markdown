@@ -4,15 +4,15 @@ title:  "Paternity leave 2.0"
 summary: Video and article about my experience with the extended paternity leave and other benefits for parents.
 image: "/assets/paternity-leave-2.0-ecard.jpg"
 ref: paternity-leave
-lang: en
+lang: not-published (en)
 ---
 
-*[Leer la versión en español de este artículo]({{ site.url }}/2017/10/05/licencia-por-paternidad.html)*
+*[Leer la versión en español de este artículo]({{ site.url }}/2017/11/26/licencia-por-paternidad.html)*
 
 And everything started with <a href="https://twitter.com/CaptainBarsoba/status/883110919714242564" target="\_blank">this Tweet</a>: *“Working from home :) Thanks @Accenture_AR for the flexible schedule for parents, and my team for the support! @SergioGKaufman #TrulyHuman”*
 <div style="text-align:center; padding-bottom: 15px"><img src="{{ site.url }}/assets/paternity-leave-2.0-tweet.jpg" width="560" alt="Paternity leave 2.0 Tweet" title="Paternity leave 2.0 Tweet"></div>
 
-Malena Victoria, who could fall asleep only in our arms by that time, turned one month old that day. I had managed to take her from my arms to my lap, to be able to have a conference call (that’s why the headset’s cable crosses the blanket diagonally). Meanwhile, in our bedroom Mum was taking the chance to catch up on sleep from the night before.
+Malena Victoria, who would fall asleep only in our arms by that time, turned one month old that day. I had managed to take her from my arms to my lap, to be able to have a conference call (that’s why the headset’s cable crosses the blanket diagonally). Meanwhile, in our bedroom Mum was taking the chance to catch up on sleep from the night before.
 
 My daughter Malena was born on Tuesday 6/6 at 6. From then until Thursday morning we stayed at the clinic “Maternidad Suizo Argentina”, where we could rely on doctors, nurses and even room service. The true challenge came up when we were discharged from the maternity clinic and went back home. In other companies I would have to get back to work on that Thursday (after the two days provided by law for paternity leave), and my wife would have to face alone Malena’s welcome to our home. Instead, I enjoyed eight additional days as per the extended paternity leave employee benefit (*ten work days in total*).  
 Being there those first days is key. Although the mother’s presence is the most important, quoting a colleague:
