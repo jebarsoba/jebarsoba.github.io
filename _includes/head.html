@@ -26,17 +26,11 @@
 
   <!--Open Graph tags -->
   <meta property="og:type" content="{% if page.title %}article{% else %}website{% endif %}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
   <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:description" content="{% if page.summary %}{{ page.summary }}{% else %}{{ site.description | strip_html | strip_newlines | remove: '"' }}{% endif %}">
-
-  {% if page.image %}
-  <meta property="og:image" content="{{ site.url }}{{ page.image }}">
-  {% else %}
-  <meta property="og:image" content="{{ site.title_image }}">
-  {% endif %}
-
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:image" itemprop="image" content="{% if page.image %}{{ site.url }}{{ page.image }}{% else %}{{ site.title_image }}{% endif %}">
   <!--/Open Graph tags -->
 
   {% include google-analytics.html %}
