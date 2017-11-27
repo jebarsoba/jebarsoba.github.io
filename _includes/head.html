@@ -30,7 +30,8 @@
   <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:description" content="{% if page.summary %}{{ page.summary }}{% else %}{{ site.description | strip_html | strip_newlines | remove: '"' }}{% endif %}">
-  <meta property="og:image" itemprop="image" content="{% if page.image %}{{ site.url }}{{ page.image }}{% else %}{{ site.title_image }}{% endif %}">
+  <meta property='og:image' itemprop='image' content='http://webdevelopmentscripts.com/img/wds.jpg'>
+  <!--<meta property="og:image" itemprop="image" content="{% if page.image %}{{ site.url }}{{ page.image }}{% else %}{{ site.title_image }}{% endif %}">-->
   <!--/Open Graph tags -->
 
   {% include google-analytics.html %}
