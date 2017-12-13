@@ -4,8 +4,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{{ site.title }}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_html | strip_newlines | remove: '"' }}{% endif %}">
-  <meta property='og:image' itemprop='image' content='http://webdevelopmentscripts.com/img/wds.jpg'>
+
+  <!--Open Graph tags -->
+  <meta property='og:url' content='http://finetunelc.com.ar/'>
+  <meta property="og:type" content="website" />
+  <meta property='og:title' content='Fine Tune Language Consulting'>
+  <meta property='og:description' content='Gestión del conocimiento para construir capacidad.'>
+  <meta property='og:image' itemprop='image' content='http://finetunelc.com.ar/images/fine-tune-logo.jpg'>
+  <!--/Open Graph tags -->
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
@@ -24,15 +30,6 @@
   <meta name="twitter:image" content="{{ site.title_image }}">
   {% endif %}
   <!-- /Twitter cards -->
-
-  <!--Open Graph tags -->
-  <meta property="og:type" content="{% if page.title %}article{% else %}website{% endif %}">
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-  <meta property="og:site_name" content="{{ site.title }}">
-  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta property="og:description" content="{% if page.summary %}{{ page.summary }}{% else %}{{ site.description | strip_html | strip_newlines | remove: '"' }}{% endif %}">
-  <!--<meta property="og:image" itemprop="image" content="{% if page.image %}{{ site.url }}{{ page.image }}{% else %}{{ site.title_image }}{% endif %}">-->
-  <!--/Open Graph tags -->
 
   {% include google-analytics.html %}
 </head>
