@@ -7,12 +7,12 @@
 
 # Site settings
 title: jebarsoba - just another developer's blog
-title_image: "http://jebarsoba.github.io/assets/jeb-profile-picture.jpg"
+title_image: "https://jebarsoba.github.io/assets/jeb-profile-picture.jpg"
 description: > # this means to ignore newlines until "baseurl:"
  "To combine is to create; to engineer, divine".
 author: Jorge Estanislao Barsoba
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://jebarsoba.github.io" # the base hostname & protocol for your site
+url: "https://jebarsoba.github.io" # the base hostname & protocol for your site
 email: jebarsoba@gmail.com
 twitter_username: CaptainBarsoba
 github_username:  jebarsoba
