@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Licencia por paternidad 2.0"
-summary: Video y artículo acerca de mi experiencia con la licencia por paternidad extendida y demás beneficios para padres.
+summary: Mi experiencia con la licencia por paternidad extendida y demás beneficios para padres.
 image: "/assets/paternity-leave-2.0-ecard.jpg"
 ref: paternity-leave
 lang: not-published (es)
