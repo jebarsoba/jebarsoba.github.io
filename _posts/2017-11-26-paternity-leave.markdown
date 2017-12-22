@@ -2,7 +2,7 @@
 layout: post
 title:  "Paternity leave 2.0"
 summary: My experience with the extended paternity leave and other benefits for parents.
-image: "/assets/paternity-leave-2.0-ecard.jpg"
+image: "/assets/paternity-leave-2.0-coding.jpg"
 ref: paternity-leave
 lang: not-published (en)
 ---
@@ -22,3 +22,4 @@ Being there those first days is key. Although the mother’s presence is the mos
 By the end of my extended leave our home had developed a kind of rhythm: the three of us had settled into our roles, and my wife and I had distributed the tasks in an attempt to equally share the load. Fortunately, then it came *AccenFlex for parents*: another benefit that gave me for three months the ACN common two work-from-home days plus the other three days of the week half-and-half. I chose working from home in the morning and at the office the other half of the day. The *(non-)routine* (because babies don’t easily get into a routine) doesn’t stop at the end of the leave and the flexible schedule helps you to spend more time with your family.
 
 My wife is saying: *“If you’re planning to have a child, you’d better have it with someone who works for ACN”.*
+<div style="text-align:center; padding-bottom: 15px"><img src="{{ site.url }}/assets/paternity-leave-2.0-coding.jpg" width="560" alt="Paternity leave 2.0 Tweet" title="Paternity leave 2.0 Tweet"><p><em>Coding at 6 month old?</em></p></div>
