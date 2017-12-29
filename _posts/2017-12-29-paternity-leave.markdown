@@ -2,12 +2,13 @@
 layout: post
 title:  "Paternity leave 2.0"
 summary: My experience with the extended paternity leave and other benefits for parents.
+date: 2017-12-29
 image: "/assets/paternity-leave-2.0-coding.jpg"
 ref: paternity-leave
-lang: not-published (en)
+lang: en
 ---
 
-*[Leer la versión en español de este artículo]({{ site.url }}/2017/11/26/licencia-por-paternidad.html)*
+*[Leer la versión en español de este artículo]({{ site.url }}/2017/12/29/licencia-por-paternidad.html)*
 
 And everything started with <a href="https://twitter.com/CaptainBarsoba/status/883110919714242564" target="\_blank">this Tweet</a>: *“Working from home :) Thanks @Accenture_AR for the flexible schedule for parents, and my team for the support! @SergioGKaufman #TrulyHuman”*
 <div style="text-align:center; padding-bottom: 15px"><img src="{{ site.url }}/assets/paternity-leave-2.0-tweet.jpg" width="560" alt="Paternity leave 2.0 Tweet" title="Paternity leave 2.0 Tweet"></div>

@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "ATAG Summit 2017, Serverless Edition"
-ref: atag-summit-2017
 date: 2017-05-23
+ref: atag-summit-2017
 lang: en
 ---
 
