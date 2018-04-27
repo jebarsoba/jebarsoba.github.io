@@ -3,7 +3,7 @@ layout: post
 title:  "An error handling strategy to reduce money loss"
 summary: How to prevent and mitigate errors through proper logging and the use of log management and monitoring tools. Concepts are technology-agnostic, but I provide an example with .NET Core C#, Sumo Logic and WebSitePulse.
 date: 2018-04-20
-image: "/assets/error-handling-strategy.png"
+image: "/assets/error-handling-strategy-thumbnail.jpg"
 ref: error-handling
 lang: en
 ---
